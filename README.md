@@ -1,0 +1,2 @@
+# VeritabaniYonetimSistemleriOdev
+Veritabanı Yönetim Sistemleri Ödevi
